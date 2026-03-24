@@ -9,7 +9,7 @@ int main()
 	for (int i = 0; i < 3; i++) {
 		std::cout << &ad[i] << ", ";
 	}
-	std::cout << &ad[4] << "\n";
+	std::cout << &ad[3] << "\n";
 	
 	for (int i = 0; i < 7; i++) {
 		std::cout << &af[i] << ", ";
