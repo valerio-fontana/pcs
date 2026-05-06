@@ -1,0 +1,5 @@
+Dai tempi misurati si osserva che, tra gli algoritmi quadratici, Insertion Sort è quello più efficiente. Bubble Sort risulta invece il più lento, soprattutto al crescere della dimensione del vettore. Quick Sort risulta più veloce di Merge Sort, anche se il loro andamento logaritmico li rende più ideali per vettori di dimensioni maggiori.
+
+Confrontando Insertion Sort con Quick Sort sui vettori piccoli, si nota che Insertion Sort è più veloce fino a circa n = 30. A partire da n = 40, Quick Sort diventa più efficiente. 
+
+Il Quick Sort modificato mostra un andamento complessivamente buono, anche se sono presenti alcune oscillazioni, di cui non sono riuscito a comprendere la causa.
